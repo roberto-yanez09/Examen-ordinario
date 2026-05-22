@@ -161,7 +161,7 @@ Partial Class Form1
         Me.preciotextbox.Name = "preciotextbox"
         Me.preciotextbox.Size = New System.Drawing.Size(100, 26)
         Me.preciotextbox.TabIndex = 11
-        Me.preciotextbox.Text = "'"
+        Me.preciotextbox.Text = "0"
         '
         'cantidadtextbox
         '
@@ -186,7 +186,7 @@ Partial Class Form1
         '
         Me.Label8.AutoSize = True
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(436, 267)
+        Me.Label8.Location = New System.Drawing.Point(465, 267)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(24, 20)
         Me.Label8.TabIndex = 14
@@ -196,7 +196,7 @@ Partial Class Form1
         '
         Me.Label9.AutoSize = True
         Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(421, 310)
+        Me.Label9.Location = New System.Drawing.Point(431, 310)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(24, 20)
         Me.Label9.TabIndex = 15
